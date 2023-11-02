@@ -43,3 +43,9 @@ Tinha que colocar o ip local do expo na request, quando coloquei ele deu certo.
 Por aqui funcionou muito bem!!
 
 Obrigado demais pela oportunidade!!
+
+
+## Images
+
+![Home](https://github.com/jonnypaulino/MyLocation/blob/main/assets/home.jpeg)
+![Status](https://github.com/jonnypaulino/MyLocation/blob/main/assets/status.jpeg)
