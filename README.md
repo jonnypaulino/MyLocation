@@ -48,4 +48,4 @@ Obrigado demais pela oportunidade!!
 ## Images
 
 ![Home](https://github.com/jonnypaulino/MyLocation/blob/main/assets/home.jpeg)
-![Status](https://github.com/jonnypaulino/MyLocation/blob/main/assets/status.jpeg)
+![Status](https://github.com/jonnypaulino/MyLocation/blob/main/assets/StatusPage.jpeg)
