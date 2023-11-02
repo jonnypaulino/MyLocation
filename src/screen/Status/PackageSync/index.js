@@ -3,6 +3,7 @@ import color from "../../../style/colors";
 
 const PackageSync = ({ item, isSync }) => {
     const date = new Date(item.time.toString());
+    date.setTime(date.getTime() - 3 * 60 * 60 * 1000)
     const horas = date.getUTCHours();
     const minutos = date.getUTCMinutes();
 
